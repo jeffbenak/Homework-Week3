@@ -13,3 +13,7 @@
 - Then once at least one option for password customization is chosen, your password will be generated in the text box. 
 
 ## Screenshots 
+![Screenshot (57)](https://user-images.githubusercontent.com/87049684/137401490-655b36c6-9068-4f7f-bcd9-7157d56e007d.png)
+
+## Deployment Link 
+https://jeffbenak.github.io/Random-Password-Generator/Develop/
